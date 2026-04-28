@@ -28,8 +28,6 @@ Every experiment folder contains:
   - Jupyter Notebooks (`.ipynb`)
 - 📊 **Output**
   - Images, plots, and results
-- 📄 **Individual README File**
-  - Detailed explanation of the experiment
 - ⚙️ **Execution Instructions**
   - Steps to run the experiment
 
@@ -39,72 +37,67 @@ Every experiment folder contains:
 
 ### 🔹 Experiment 1: Image Acquisition and Display
 - `Experiment_1_Image_Acquisition_Output/`
-- `Experiment_1_Image_Acquisition_readme.md`
 - `Experiment_1_Image_Acquisition.ipynb`
 
 ### 🔹 Experiment 2: Sampling and Quantization
 - `Experiment_2_Sampling_Quantization_Output/`
-- `Experiment_2_Sampling_Quantization_readme.md`
 - `Experiment_2_Sampling_Quantization.ipynb`
 
 ### 🔹 Experiment 3: Image Enhancement (Spatial Domain)
 - `Experiment_3_Image_Enhancement_Output/`
-- `Experiment_3_Image_Enhancement_readme.md`
 - `Experiment_3_Image_Enhancement.ipynb`
 
 ### 🔹 Experiment 4: Frequency Domain Filtering
 - `Experiment_4_Frequency_Filtering_Output/`
-- `Experiment_4_Frequency_Filtering_readme.md`
 - `Experiment_4_Frequency_Filtering.ipynb`
 
 ### 🔹 Experiment 5: Noise Modeling and Image Restoration
 - `Experiment_5_Noise_Restoration_Output/`
-- `Experiment_5_Noise_Restoration_readme.md`
 - `Experiment_5_Noise_Restoration.ipynb`
 
 ### 🔹 Experiment 6: Wiener Filtering (Periodic Noise Removal)
 - `Experiment_6_Wiener_Filter_Output/`
-- `Experiment_6_Wiener_Filter_readme.md`
+- `Experiment_6_Wiener_Filter.ipynb`
 
 ### 🔹 Experiment 7: Geometric Transformations
 - `Experiment_7_Geometric_Transformations_Output/`
-- `Experiment_7_Geometric_Transformations_readme.md`
+- `Experiment_7_Geometric_Transformations.ipynb`
 
 ### 🔹 Experiment 8: Color Image Processing & Segmentation
 - `Experiment_8_Color_Processing_Output/`
-- `Experiment_8_Color_Processing_readme.md`
+- `Experiment_8_Color_Processing.ipynb`
 
 ### 🔹 Experiment 9: Image Compression (Huffman & RLE)
 - `Experiment_9_Compression_Output/`
-- `Experiment_9_Compression_readme.md`
+- `Experiment_9_Compression.ipynb`
 
 ### 🔹 Experiment 10: Edge Detection
 - `Experiment_10_Edge_Detection_Output/`
-- `Experiment_10_Edge_Detection_readme.md`
+- `Experiment_10_Edge_Detection.ipynb`
 
 ### 🔹 Experiment 11: Morphological Operations
 - `Experiment_11_Morphological_Operations_Output/`
-- `Experiment_11_Morphological_Operations_readme.md`
+- `Experiment_11_Morphological_Operations.ipynb`
 
 ### 🔹 Experiment 12: Threshold & Region-Based Segmentation
 - `Experiment_12_Segmentation_Output/`
-- `Experiment_12_Segmentation_readme.md`
+- `Experiment_12_Segmentation.ipynb`
 
 ### 🔹 Experiment 13: Boundary Detection (Chain Codes)
 - `Experiment_13_Boundary_Descriptors_Output/`
-- `Experiment_13_Boundary_Descriptors_readme.md`
+- `Experiment_13_Boundary_Descriptors.ipynb`
 
 ### 🔹 Experiment 14: CNN for Image Classification
 - `Experiment_14_CNN_Output/`
-- `Experiment_14_CNN_readme.md`
+- `Experiment_14_CNN.ipynb`
 
 ### 🔹 Experiment 15: Lossless & Lossy Compression
 - `Experiment_15_Compression_Output/`
-- `Experiment_15_Compression_readme.md`
+- `Experiment_15_Compression.ipynb`
 
 ### 🔹 Experiment 16: Shannon-Fano & Arithmetic Coding
 - `Experiment_16_Advanced_Compression_Output/`
-- `Experiment_16_Advanced_Compression_readme.md`
+- `Experiment_16_Advanced_Compression.ipynb`
 
 ---
 
