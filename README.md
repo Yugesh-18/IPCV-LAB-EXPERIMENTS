@@ -5,8 +5,7 @@ This repository contains all the experiments and assignments for the **Image Pro
 
 The purpose of this repository is to systematically organize, store, and provide easy access to all practical experiments, implementations, and related documentation. It serves as a structured reference for both academic submission and future learning.
 
-The experiments included in this repository are based on standard image processing and computer vision concepts such as image acquisition, enhancement, filtering, segmentation, compression, and Edge Detection 
-:contentReference[oaicite:0]{index=0}.
+The experiments included in this repository are based on standard image processing and computer vision concepts such as image acquisition, enhancement, filtering, segmentation, compression, and Edge Detection.
 
 ---
 
