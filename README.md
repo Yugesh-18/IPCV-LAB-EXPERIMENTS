@@ -5,7 +5,8 @@ This repository contains all the experiments and assignments for the **Image Pro
 
 The purpose of this repository is to systematically organize, store, and provide easy access to all practical experiments, implementations, and related documentation. It serves as a structured reference for both academic submission and future learning.
 
-The experiments included in this repository are based on standard image processing and computer vision concepts such as image acquisition, enhancement, filtering, segmentation, compression, and deep learning techniques like CNNs :contentReference[oaicite:0]{index=0}.
+The experiments included in this repository are based on standard image processing and computer vision concepts such as image acquisition, enhancement, filtering, segmentation, compression, and Edge Detection 
+:contentReference[oaicite:0]{index=0}.
 
 ---
 
@@ -34,44 +35,54 @@ Every experiment folder contains:
 ## 🧪 Experiments
 
 ### 🔹 Experiment 1: Image Acquisition and Display
-- `Experiment_1_Image_Acquisition_Output/`
+- `Experiment_1_Image_Acquisition/`
 - `Experiment_1_Image_Acquisition.py`
+- `Experiment_1_Image_Acquisition_Output`
 
 ### 🔹 Experiment 2: Sampling and Quantization
-- `Experiment_2_Sampling_Quantization_Output/`
+- `Experiment_2_Sampling_Quantization/`
 - `Experiment_2_Sampling_Quantization.py`
+- `Experiment_2_Sampling_Quantization_Output`
 
 ### 🔹 Experiment 3: Image Enhancement (Spatial Domain)
-- `Experiment_3_Image_Enhancement_Output/`
+- `Experiment_3_Image_Enhancement/`
 - `Experiment_3_Image_Enhancement.py`
+- `Experiment_3_Image_Enhancement_Output`
 
 ### 🔹 Experiment 4: Frequency Domain Filtering
-- `Experiment_4_Frequency_Filtering_Output/`
+- `Experiment_4_Frequency_Filtering/`
 - `Experiment_4_Frequency_Filtering.py`
+- `Experiment_4_Frequency_Filtering_Output`
 
 ### 🔹 Experiment 5: Noise Modeling and Image Restoration
-- `Experiment_5_Noise_Restoration_Output/`
+- `Experiment_5_Noise_Restoration/`
 - `Experiment_5_Noise_Restoration.py`
+- `Experiment_5_Noise_Restoration_Output`
 
 ### 🔹 Experiment 6: Wiener Filtering (Periodic Noise Removal)
-- `Experiment_6_Wiener_Filter_Output/`
+- `Experiment_6_Wiener_Filter/`
 - `Experiment_6_Wiener_Filter.py`
+-  `Experiment_6_Wiener_Filter_Output`
 
 ### 🔹 Experiment 7: Geometric Transformations
-- `Experiment_7_Geometric_Transformations_Output/`
+- `Experiment_7_Geometric_Transformations/`
 - `Experiment_7_Geometric_Transformations.py`
+- `Experiment_7_Geometric_Transformations_Output`
 
 ### 🔹 Experiment 8: Color Image Processing & Segmentation
-- `Experiment_8_Color_Processing_Output/`
+- `Experiment_8_Color_Processing/`
 - `Experiment_8_Color_Processing.py`
+- `Experiment_8_Color_Processing_Output`
 
 ### 🔹 Experiment 9: Image Compression (Huffman & RLE)
-- `Experiment_9_Compression_Output/`
+- `Experiment_9_Compression/`
 - `Experiment_9_Compression.py`
+- `Experiment_9_Compression_Output`
 
 ### 🔹 Experiment 10: Edge Detection
-- `Experiment_10_Edge_Detection_Output/`
+- `Experiment_10_Edge_Detection/`
 - `Experiment_10_Edge_Detection.py`
+- `Experiment_10_Edge_Detection_Output`
 
 ---
 
